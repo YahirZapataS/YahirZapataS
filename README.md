@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Yahir Zapata
 
-🎓 **Estudiante de Ingeniería de Software** | 💻 **Desarrollador Backend & Full Stack** | 🚀 Apasionado por crear soluciones que sumen valor real
+🎓 **Estudiante de Ingeniería de Software** | 💻 **Desarrollador Backend en Desarrollo** | 🚀 Apasionado por crear soluciones que sumen valor real
 
 ---
 
